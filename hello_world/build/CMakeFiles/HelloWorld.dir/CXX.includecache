@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ouro/vtkm/vtk-m/examples/hello_world/HelloWorld.cxx
+GL/glew.h
+-
+iostream
+-
+vtkm/Math.h
+-
+vtkm/cont/ArrayHandle.h
+-
+vtkm/cont/Initialize.h
+-
+vtkm/cont/Timer.h
+-
+vtkm/interop/TransferToOpenGL.h
+-
+vtkm/worklet/DispatcherMapField.h
+-
+vtkm/worklet/WorkletMapField.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+LoadShaders.h
+/home/ouro/vtkm/vtk-m/examples/hello_world/LoadShaders.h
+
+/home/ouro/vtkm/vtk-m/examples/hello_world/LoadShaders.h
+GLUT/glut.h
+-
+GL/glut.h
+-
+

@@ -1,0 +1,3 @@
+/home/ouro/vtkm/vtk-m/examples/hello_world/build/CMakeFiles/rebuild_cache.dir
+/home/ouro/vtkm/vtk-m/examples/hello_world/build/CMakeFiles/HelloWorld.dir
+/home/ouro/vtkm/vtk-m/examples/hello_world/build/CMakeFiles/edit_cache.dir
